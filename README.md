@@ -1,6 +1,7 @@
 # Market Metrics 
 
 **Project Title**: MarketMetrics: A Big Market Analysis.
+
 A React and Tailwind CSS frontend with a Flask-based backend service for market price predictions and analytics.
 
 ## Team
