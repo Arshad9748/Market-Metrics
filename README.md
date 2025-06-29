@@ -137,10 +137,6 @@ python app.py
 
 The server will start on `http://localhost:5000`
 
-## API Documentation
-
-Detailed API documentation can be found in `implementation.MD`. Here's a quick overview:
-
 ### Authentication Endpoints
 
 1. **Signup**
