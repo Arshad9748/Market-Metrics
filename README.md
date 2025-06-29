@@ -5,7 +5,7 @@ A React and Tailwind CSS frontend with a Flask-based backend service for market 
 
 ## Team
 This project was developed by:
-- **ARSHAD MURTAZA AHMED** - [Project Lead]
+- **Arshad Murtaza Ahmed** - [Project Lead]
 - **Subinoy Khatua.**
 - **Sayan Malakar** 
 - **Praveen Kumar**
