@@ -33,7 +33,7 @@ This service provides APIs for:
 
 Clone the repository:
 ```bash
-git clone https://github.com/Arshad9748/Market-Metrics .git
+git clone https://github.com/Arshad9748/Market-Metrics.git
 ```
  
 **Frontend**:
