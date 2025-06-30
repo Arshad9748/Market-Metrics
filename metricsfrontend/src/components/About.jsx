@@ -1,6 +1,6 @@
 import React from "react";
 import Sales1 from "../assets/Sales1.jpg";
-
+//about section component
 const About = () => {
   return (
     <div id="about" className="bg-neutral-900 text-white min-h-[600px] grid place-items-center py-12 sm:py-16 duration-300">
