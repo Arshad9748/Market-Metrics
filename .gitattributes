@@ -1,11 +1,14 @@
-# Force GitHub to correctly detect languages used in this project
+# Correct GitHub language detection
 
-# Python (Flask backend)
-metricsbackend/* linguist-language=Python
+# Python files (Flask backend)
+*.py linguist-detectable=true
 
-# JavaScript/JSX (React frontend)
-metricsfrontend/src/* linguist-language=JavaScript
-metricsfrontend/src/**/*.jsx linguist-language=JavaScript
+# JavaScript and JSX (React frontend)
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
 
-# Tailwind (CSS)
-metricsfrontend/src/**/*.css linguist-language=CSS
+# Tailwind (CSS files)
+*.css linguist-detectable=true
+
+# Optional: ignore HTML-only reports
+*.html linguist-generated
