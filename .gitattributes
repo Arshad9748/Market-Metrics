@@ -1,11 +1,11 @@
 # Force GitHub to correctly detect languages used in this project
 
-# Flask backend
-metricsbackend/**/*.py linguist-language=Python
+# Python (Flask backend)
+metricsbackend/* linguist-language=Python
 
-# React frontend
-metricsfrontend/**/*.js linguist-language=JavaScript
-metricsfrontend/**/*.jsx linguist-language=JavaScript
+# JavaScript/JSX (React frontend)
+metricsfrontend/src/* linguist-language=JavaScript
+metricsfrontend/src/**/*.jsx linguist-language=JavaScript
 
-# Tailwind CSS
-metricsfrontend/**/*.css linguist-language=CSS
+# Tailwind (CSS)
+metricsfrontend/src/**/*.css linguist-language=CSS
